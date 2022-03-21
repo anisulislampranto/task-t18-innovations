@@ -1,8 +1,10 @@
 .home-page {
   background-color: #0089ed;
-  height: 300px;
+  height: 400px;
   margin-top: 0px;
 }
-.navbar {
+.header {
   display: flex;
+  margin-left: 60px;
+  margin-right: 60px;
 }

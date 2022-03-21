@@ -1,5 +1,8 @@
 .sign-in-card {
-  border-radius: 10px;
+  border-radius: 30px;
   background-color: white;
-  padding: 20px;
+  padding: 40px;
+  width: 450px;
+  height: 600px;
+  box-shadow: 1px 2px 2px 2px #e5e5e5;
 }
