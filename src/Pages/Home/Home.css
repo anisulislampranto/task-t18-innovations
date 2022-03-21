@@ -1,0 +1,8 @@
+.home-page {
+  background-color: #0089ed;
+  height: 300px;
+  margin-top: 0px;
+}
+.navbar {
+  display: flex;
+}
